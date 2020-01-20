@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+page.data-v-fa1d3fa0,
+.content.data-v-fa1d3fa0 {
+  width: 100%;
+}
+.com-top.data-v-fa1d3fa0 {
+  width: 100%;
+  height: 125px;
+}
+.com-top image.data-v-fa1d3fa0 {
+    width: 100%;
+    height: 100%;
+}
+.uni-product-jifen.data-v-fa1d3fa0 {
+  margin-top: 10px;
+}
+.uni-product-jifen-top.data-v-fa1d3fa0 {
+  color: #FF0E0E;
+  font-size: 17px;
+  font-weight: bold;
+}
+.uni-product-jifen-bottom.data-v-fa1d3fa0 {
+  color: #333333;
+  font-size: 12px;
+  margin: 10px 0;
+}
+.noPad.data-v-fa1d3fa0 {
+  padding-left: 0;
+}
+.pad.data-v-fa1d3fa0 {
+  padding: 0 6px;
+}
+.uni-product-list-con.data-v-fa1d3fa0 {
+  border-radius: 10px 10px 0 0;
+}
+

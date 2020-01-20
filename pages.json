@@ -1,0 +1,342 @@
+{
+	"pages": [{
+			"path": "pages/tabbar/home",
+			"style": {
+				"navigationBarTitleText": "凯麟国际"
+			}
+		},
+		{
+			"path": "pages/tabbar/class",
+			"style": {
+				"navigationBarTitleText": "凯麟国际"
+			}
+		},
+		{
+			"path": "pages/tabbar/zixun",
+			"style": {
+				"navigationBarTitleText": "凯麟国际"
+			}
+		},
+		{
+			"path": "pages/tabbar/cart",
+			"style": {
+				"navigationBarTitleText": "凯麟国际"
+			}
+		},
+		{
+			"path": "pages/tabbar/mine",
+			"style": {
+				"navigationBarTitleText": "凯麟国际"
+			}
+		}
+    ],
+	"subPackages": [{
+			"root": "pagesA",
+			"pages": [{
+					"path": "secondlist/secondlist",
+					"style": {
+						"navigationBarTitleText": "限时秒杀"
+					}
+				},
+				{
+					"path": "search/search_index",
+					"style": {
+						"navigationBarTitleText": "搜索"
+					}
+				},
+				{
+					"path": "classChild/classChild",
+					"style": {
+						"navigationBarTitleText": "商品列表"
+					}
+				},
+				{
+					"path": "classChild/homeChild",
+					"style": {
+						"navigationBarTitleText": "商品列表"
+					}
+				},
+				{
+					"path": "search/search_list",
+					"style": {
+						"navigationBarTitleText": "搜索列表"
+					}
+				},
+				{
+					"path": "shopdetails/shopDetails",
+					"style": {
+						"navigationBarTitleText": "商品详情"
+					}
+				},
+				{
+					"path": "shopdetails/secondshop",
+					"style": {
+						"navigationBarTitleText": "商品详情"
+					}
+				},
+				{
+					"path": "shopdetails/jifenshop",
+					"style": {
+						"navigationBarTitleText": "商品详情"
+					}
+				},
+				{
+					"path": "homenav/servce"
+				}
+			    ,{
+                    "path" : "homeBanner/homeBanner",
+                    "style" : {}
+                }
+            ]
+		}, {
+			"root": "pagesB",
+			"pages": [
+				{
+					"path": "author/index",
+					"style": {
+						"navigationBarTitleText": "授权登录"
+					}
+				},
+				{
+					"path": "reg/reg",
+					"style": {
+						"navigationBarTitleText": "凯麟国际"
+					}
+				}
+			]
+		},
+		{
+			"root": "pagesC",
+			"pages": [
+				{
+					"path": "jifenshop/jifenshop",
+					"style": {
+						"navigationBarTitleText": "积分商城"
+					}
+				},
+				{
+					"path": "complin/usecomplin",
+					"style": {
+						"navigationBarTitleText": "我的购物劵"
+					}
+				},
+				{
+					"path": "juancenter/commplin",
+					"style": {
+						"navigationBarTitleText": "领券中心"
+					}
+				}
+			]
+		},
+		{
+			"root": "pagesD",
+			"pages": [{
+					"path": "person/mycomplin",
+					"style": {
+						"navigationBarTitleText": "我的优惠券"
+					}
+				},
+				{
+					"path": "zixun/zixunDetail"
+				},
+				{
+					"path": "person/helpdetail",
+					"style": {
+						"navigationBarTitleText": "帮助中心"
+					}
+				},
+				{
+					"path": "shouyi/setpsw",
+					"style": {
+						"navigationBarTitleText": "设置密码"
+					}
+				},
+				{
+					"path": "shouyi/changpsw",
+					"style": {
+						"navigationBarTitleText": "修改密码"
+					}
+				},
+				{
+					"path": "shouyi/foundpsw",
+					"style": {
+						"navigationBarTitleText": "找回密码"
+					}
+				},
+				{
+					"path": "shouyi/myshouyi",
+					"style": {
+						"navigationBarTitleText": "我的收益"
+					}
+				},
+				{
+					"path": "shouyi/getmoney",
+					"style": {
+						"navigationBarTitleText": "提现申请"
+					}
+				},
+				{
+					"path": "shouyi/tixianlilv",
+					"style": {
+						"navigationBarTitleText": "提现记录"
+					}
+				},
+				{
+					"path": "shouyi/shouyidetail",
+					"style": {
+						"navigationBarTitleText": "收益明细"
+					}
+				},
+				{
+					"path": "order/order",
+					"style": {
+						"navigationBarTitleText": "订单中心"
+					}
+				},
+				{
+					"path": "order/orderDetail",
+					"style": {
+						"navigationBarTitleText": "订单详情"
+					}
+				},
+				{
+					"path": "order/tuiDetails",
+					"style": {
+						"navigationBarTitleText": "退款详情"
+					}
+				},
+				{
+					"path": "order/subSouHuo",
+					"style": {
+						"navigationBarTitleText": "申请售后"
+					}
+				},
+				{
+					"path": "order/finishOrder",
+					"style": {
+						"navigationBarTitleText": "确认订单"
+					}
+				},
+				{
+					"path": "order/sexOrder",
+					"style": {
+						"navigationBarTitleText": "确认订单"
+					}
+				},
+				{
+					"path": "order/tuiorder",
+					"style": {
+						"navigationBarTitleText": "退款售后"
+					}
+				},
+				{
+					"path": "order/wuliu",
+					"style": {
+						"navigationBarTitleText": "物流助手"
+					}
+				},
+				{
+					"path": "order/paySuccess",
+					"style": {
+						"navigationBarTitleText": "支付成功"
+					}
+				},
+				{
+					"path": "person/store",
+					"style": {
+						"navigationBarTitleText": "我的收藏"
+					}
+				},
+				{
+					"path": "person/address",
+					"style": {
+						"navigationBarTitleText": "地址管理"
+					}
+				},
+				{
+					"path": "person/addressManage"
+				},
+
+				{
+					"path": "person/person_msg",
+					"style": {
+						"navigationBarTitleText": "个人资料"
+					}
+				},
+				{
+					"path": "person/help",
+					"style": {
+						"navigationBarTitleText": "帮助中心"
+					}
+				},
+				{
+					"path": "person/entershop",
+					"style": {
+						"navigationBarTitleText": "招商加盟"
+					}
+				},
+				{
+					"path": "person/fensi",
+					"style": {
+						"navigationBarTitleText": "我的粉丝"
+					}
+				},
+				{
+					"path": "shouyi/jifen",
+					"style": {
+						"navigationBarTitleText": "积分管理"
+					}
+				}
+			]
+		}
+	],
+	"tabBar": {
+		"color": "#999999",
+		"selectedColor": "#00736b",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [{
+				"pagePath": "pages/tabbar/home",
+				"iconPath": "static/tabs/shouye_hui@2x.png",
+				"selectedIconPath": "static/tabs/shouye@2x.png",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/tabbar/class",
+				"iconPath": "static/tabs/fenlei_hui@2x.png",
+				"selectedIconPath": "static/tabs/fenlei@2x.png",
+				"text": "分类"
+			},
+			{
+				"pagePath": "pages/tabbar/zixun",
+				"iconPath": "static/tabs/zixun_hui@2x.png",
+				"selectedIconPath": "static/tabs/zixun@2x.png",
+				"text": "资讯"
+			},
+			{
+				"pagePath": "pages/tabbar/cart",
+				"iconPath": "static/tabs/gouwuche_hui@2x.png",
+				"selectedIconPath": "static/tabs/gouwuche@2x.png",
+				"text": "购物车"
+			},
+			{
+				"pagePath": "pages/tabbar/mine",
+				"iconPath": "static/tabs/wode_hui@2x.png",
+				"selectedIconPath": "static/tabs/wode@2x.png",
+				"text": "我的"
+			}
+		]
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarBackgroundColor": "#038980",
+		"backgroundColor": "#FFFFFF",
+		"usingComponents": {}
+	},
+	"plugins": {
+		"routePlan": {
+			"version": "1.0.3",
+			"provider": "wx753efed1042dbe46"
+		}
+	}
+}

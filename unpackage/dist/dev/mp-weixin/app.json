@@ -1,0 +1,123 @@
+{
+  "pages": [
+    "pages/tabbar/home",
+    "pages/tabbar/class",
+    "pages/tabbar/zixun",
+    "pages/tabbar/cart",
+    "pages/tabbar/mine"
+  ],
+  "subPackages": [
+    {
+      "root": "pagesA",
+      "pages": [
+        "secondlist/secondlist",
+        "search/search_index",
+        "classChild/classChild",
+        "classChild/homeChild",
+        "search/search_list",
+        "shopdetails/shopDetails",
+        "shopdetails/secondshop",
+        "shopdetails/jifenshop",
+        "homenav/servce",
+        "homeBanner/homeBanner"
+      ]
+    },
+    {
+      "root": "pagesB",
+      "pages": [
+        "author/index",
+        "reg/reg"
+      ]
+    },
+    {
+      "root": "pagesC",
+      "pages": [
+        "jifenshop/jifenshop",
+        "complin/usecomplin",
+        "juancenter/commplin"
+      ]
+    },
+    {
+      "root": "pagesD",
+      "pages": [
+        "person/mycomplin",
+        "zixun/zixunDetail",
+        "person/helpdetail",
+        "shouyi/setpsw",
+        "shouyi/changpsw",
+        "shouyi/foundpsw",
+        "shouyi/myshouyi",
+        "shouyi/getmoney",
+        "shouyi/tixianlilv",
+        "shouyi/shouyidetail",
+        "order/order",
+        "order/orderDetail",
+        "order/tuiDetails",
+        "order/subSouHuo",
+        "order/finishOrder",
+        "order/sexOrder",
+        "order/tuiorder",
+        "order/wuliu",
+        "order/paySuccess",
+        "person/store",
+        "person/address",
+        "person/addressManage",
+        "person/person_msg",
+        "person/help",
+        "person/entershop",
+        "person/fensi",
+        "shouyi/jifen"
+      ]
+    }
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarBackgroundColor": "#038980",
+    "backgroundColor": "#FFFFFF"
+  },
+  "tabBar": {
+    "color": "#999999",
+    "selectedColor": "#00736b",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/tabbar/home",
+        "iconPath": "static/tabs/shouye_hui@2x.png",
+        "selectedIconPath": "static/tabs/shouye@2x.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/tabbar/class",
+        "iconPath": "static/tabs/fenlei_hui@2x.png",
+        "selectedIconPath": "static/tabs/fenlei@2x.png",
+        "text": "分类"
+      },
+      {
+        "pagePath": "pages/tabbar/zixun",
+        "iconPath": "static/tabs/zixun_hui@2x.png",
+        "selectedIconPath": "static/tabs/zixun@2x.png",
+        "text": "资讯"
+      },
+      {
+        "pagePath": "pages/tabbar/cart",
+        "iconPath": "static/tabs/gouwuche_hui@2x.png",
+        "selectedIconPath": "static/tabs/gouwuche@2x.png",
+        "text": "购物车"
+      },
+      {
+        "pagePath": "pages/tabbar/mine",
+        "iconPath": "static/tabs/wode_hui@2x.png",
+        "selectedIconPath": "static/tabs/wode@2x.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于小程序的定位"
+    }
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap9.json"
+}

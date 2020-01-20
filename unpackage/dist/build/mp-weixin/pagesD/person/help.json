@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "帮助中心",
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more/uni-load-more"
+  }
+}

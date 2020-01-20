@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "订单中心",
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "empty": "/components/mycom/empty"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "确认订单",
+  "usingComponents": {
+    "vue-pwd": "/components/vue-pwd/vue-pwd"
+  }
+}

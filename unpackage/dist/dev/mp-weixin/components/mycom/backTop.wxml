@@ -1,0 +1,1 @@
+<view><image class="backcont" src="/static/image/back.png" mode="scaleToFill" data-event-opts="{{[['tap',[['onClick',['$event']]]]]}}" bindtap="__e"></image></view>

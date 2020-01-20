@@ -1,0 +1,1 @@
+<view class="content data-v-e7fd1e98"><view class="zixun-top data-v-e7fd1e98"><block wx:if="{{video==''}}"><image class="zixun-image data-v-e7fd1e98" src="{{image}}" mode></image></block><block wx:else><video src="{{video}}" controls poster="{{image}}" class="data-v-e7fd1e98"></video></block></view><view class="zixun-cont-main data-v-e7fd1e98">{{''+content+''}}</view></view>

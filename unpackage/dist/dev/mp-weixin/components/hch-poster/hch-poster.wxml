@@ -1,0 +1,1 @@
+<view class="canvas_box" hidden="{{canvasFlag}}"><view class="canvas_box_mask"></view><view class="button-wrapper"></view></view>

@@ -1,0 +1,84 @@
+{
+  "pages": [
+    "pages/tabbar/home",
+    "pages/tabbar/class",
+    "pages/tabbar/zixun",
+    "pages/tabbar/cart",
+    "pages/tabbar/mine"
+  ],
+  "subPackages": [
+    {
+      "root": "pagesA",
+      "pages": [
+        "secondlist/secondlist",
+        "search/search_index",
+        "classChild/classChild",
+        "search/search_list",
+        "shopdetails/shopDetails",
+        "shopdetails/secondshop",
+        "shopdetails/jifenshop",
+        "homenav/servce",
+        "homeBanner/homeBanner"
+      ]
+    },
+    {
+      "root": "pagesB",
+      "pages": [
+        "author/index",
+        "reg/reg"
+      ]
+    },
+    {
+      "root": "pagesC",
+      "pages": [
+        "jifenshop/jifenshop",
+        "complin/usecomplin",
+        "juancenter/commplin"
+      ]
+    },
+    {
+      "root": "pagesD",
+      "pages": [
+        "person/mycomplin",
+        "zixun/zixunDetail",
+        "person/helpdetail",
+        "shouyi/setpsw",
+        "shouyi/changpsw",
+        "shouyi/foundpsw",
+        "shouyi/myshouyi",
+        "shouyi/getmoney",
+        "shouyi/tixianlilv",
+        "shouyi/shouyidetail",
+        "order/order",
+        "order/orderDetail",
+        "order/tuiDetails",
+        "order/subSouHuo",
+        "order/finishOrder",
+        "order/sexOrder",
+        "order/tuiorder",
+        "order/wuliu",
+        "order/paySuccess",
+        "person/store",
+        "person/address",
+        "person/addressManage",
+        "person/person_msg",
+        "person/help",
+        "person/entershop",
+        "person/fensi",
+        "shouyi/jifen"
+      ]
+    }
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarBackgroundColor": "#038980",
+    "backgroundColor": "#FFFFFF"
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于小程序的定位"
+    }
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

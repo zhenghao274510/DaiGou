@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "限时秒杀",
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "bbs-count-down": "/components/bbs-countdown/bbs-countdown"
+  }
+}

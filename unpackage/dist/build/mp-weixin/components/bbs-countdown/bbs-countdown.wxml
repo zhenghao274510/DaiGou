@@ -1,0 +1,1 @@
+<view class="bbs-countdown" style="{{'color:'+(setColor)+';'}}">{{'剩余时间:\n\t'+(days<10?'0'+days:days)+"天\n\t"+(hours<10?'0'+hours:hours)+":\n\t"+(minutes<10?'0'+minutes:minutes)+":\n\t"+(seconds<10?'0'+seconds:seconds)+''}}</view>

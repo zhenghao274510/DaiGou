@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "凯麟国际",
+  "usingComponents": {
+    "sec-footer": "/components/SecFooter/SecFooter",
+    "home-swipe": "/components/mycom/swipe",
+    "home-list": "/components/mycom/homelist",
+    "back-top": "/components/mycom/backTop",
+    "uni-load-more": "/components/uni-load-more/uni-load-more"
+  }
+}

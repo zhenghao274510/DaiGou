@@ -1,0 +1,32 @@
+.changpsw.data-v-4438c252 {
+  padding: 20px;
+}
+.changpsw .cont_item.data-v-4438c252 {
+  height: 45px;
+  line-height: 45px;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+.changpsw .cont_item input.data-v-4438c252 {
+  width: 100%;
+  height: 40px;
+  border-bottom: 1px solid #e5e5e5;
+  padding-left: 10px;
+}
+.changpsw .btn.data-v-4438c252 {
+  width: 300px;
+  margin: 0 auto;
+  margin-top: 61px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  color: #fff;
+  border-radius: 22px;
+  font-size: 18px;
+  background-color: #00736B;
+}
+.changpsw .con-inter.data-v-4438c252 {
+  line-height: 30px;
+  text-align: center;
+}
+

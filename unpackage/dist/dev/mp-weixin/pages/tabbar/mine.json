@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "凯麟国际",
+  "usingComponents": {
+    "sec-footer": "/components/SecFooter/SecFooter",
+    "home-list": "/components/mycom/mineList",
+    "back-top": "/components/mycom/backTop",
+    "share-cont": "/components/mycom/share",
+    "creat-share": "/components/mycom/haibao",
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "hch-poster": "/components/hch-poster/hch-poster"
+  }
+}

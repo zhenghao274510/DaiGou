@@ -1,0 +1,55 @@
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+.changpsw.data-v-ef5a0dac {
+  padding: 20px;
+}
+.changpsw .cont_item.data-v-ef5a0dac {
+    height: 45px;
+    line-height: 45px;
+    font-size: 16px;
+    margin-bottom: 10px;
+    position: relative;
+}
+.changpsw .cont_item .inputend.data-v-ef5a0dac {
+      width: 80%;
+}
+.changpsw .cont_item input.data-v-ef5a0dac {
+      width: 100%;
+      height: 40px;
+      border-bottom: 1px solid #e5e5e5;
+      padding-left: 10px;
+}
+.changpsw .cont_item .pos.data-v-ef5a0dac {
+      position: absolute;
+      right: 0;
+      top: 50%;
+      height: 20px;
+      line-height: 20px;
+      padding-left: 15px;
+      -webkit-transform: translateY(-50%);
+              transform: translateY(-50%);
+      color: #00736B;
+      border-left: 2px solid #00736B;
+}
+.changpsw .btn.data-v-ef5a0dac {
+    width: 275px;
+    margin: 0 auto;
+    margin-top: 61px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    color: #fff;
+    font-size: 18px;
+    background-color: #00736B;
+}
+.changpsw .con-inter.data-v-ef5a0dac {
+    line-height: 30px;
+    text-align: left;
+    color: #00736B;
+}
+

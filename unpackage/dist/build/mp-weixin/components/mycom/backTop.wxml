@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['onClick',['$event']]]]]}}" class="backcont" bindtap="__e"><view class="iconfont icon-fanhuidingbu"></view></view>
